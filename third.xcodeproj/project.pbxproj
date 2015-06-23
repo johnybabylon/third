@@ -14,6 +14,7 @@
 		297550911B38B5CA00FB490C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 297550901B38B5CA00FB490C /* Images.xcassets */; };
 		297550941B38B5CA00FB490C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 297550921B38B5CA00FB490C /* LaunchScreen.xib */; };
 		297550A01B38B5CB00FB490C /* thirdTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2975509F1B38B5CB00FB490C /* thirdTests.m */; };
+		297550AC1B38DB2D00FB490C /* ron_swan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 297550AB1B38DB2D00FB490C /* ron_swan.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		297550991B38B5CB00FB490C /* thirdTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = thirdTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2975509E1B38B5CB00FB490C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2975509F1B38B5CB00FB490C /* thirdTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = thirdTests.m; sourceTree = "<group>"; };
+		297550AB1B38DB2D00FB490C /* ron_swan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ron_swan.jpg; path = ../../../.Trash/ron_swan.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				2975508A1B38B5CA00FB490C /* ViewController.h */,
 				2975508B1B38B5CA00FB490C /* ViewController.m */,
 				2975508D1B38B5CA00FB490C /* Main.storyboard */,
+				297550AB1B38DB2D00FB490C /* ron_swan.jpg */,
 				297550901B38B5CA00FB490C /* Images.xcassets */,
 				297550921B38B5CA00FB490C /* LaunchScreen.xib */,
 				297550831B38B5CA00FB490C /* Supporting Files */,
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				297550AC1B38DB2D00FB490C /* ron_swan.jpg in Resources */,
 				2975508F1B38B5CA00FB490C /* Main.storyboard in Resources */,
 				297550941B38B5CA00FB490C /* LaunchScreen.xib in Resources */,
 				297550911B38B5CA00FB490C /* Images.xcassets in Resources */,

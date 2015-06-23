@@ -9,6 +9,13 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIImageView *image;
+@property (weak, nonatomic) IBOutlet UISlider *slider;
+
+
+@property (weak, nonatomic) IBOutlet UILabel *label;
+- (IBAction)switchChange:(id)sender;
+- (IBAction)sliderChange:(id)sender;
 
 
 @end
